@@ -1,30 +1,11 @@
-<!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/M-Arshad96/M-Arshad96/main/<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/309e5bb2-ff64-4f44-a966-05d468877fdf" />
-" alt="Muhammad Arshad - Software Quality Analyst" style="width:100%;"/>
+# Hi there, I'm Muhammad Arshad 👋
 
-<br/>
-
-<!-- Profile Photo & Intro -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Arshad96/M-Arshad96/main/<img width="1058" height="1145" alt="profile 1" src="https://github.com/user-attachments/assets/e7ed630d-b55c-4ca3-97d5-5291fa97af44" />
-
-" alt="Muhammad Arshad" width="160" style="border-radius: 50%;">
-</p>
-
-<h1 align="center">Hi there, I'm Muhammad Arshad 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadarshad96/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/M-Arshad96">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarshad96/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/M-Arshad96)
 
 ---
 
-I'm an experienced **Quality Assurance Analyst** with **4 years** of hands-on experience in **manual and automated software testing**. My expertise lies in designing scalable automation frameworks from scratch and driving high-quality deliverables through detailed testing, proactive defect tracking, and team collaboration in Agile environments.
+I'm an experienced **Quality Assurance Analyst** with **4 years** of expertise in both **manual and automated software testing**. I specialize in building robust automation frameworks from scratch and am passionate about ensuring top-tier quality through detailed testing, effective defect tracking, and seamless collaboration within Agile teams.
 
 ---
 
@@ -44,28 +25,28 @@ I'm an experienced **Quality Assurance Analyst** with **4 years** of hands-on ex
 
 | **Project**                          | **Description**                                                                                  | **Tech Stack**                        |
 |--------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
-| `java_Selenium_Automation_Framwork_POM_Model` | Web UI automation using the Page Object Model (POM) for scalable tests.                       | Java, Selenium, Maven, TestNG         |
-| `playwright_pom_model_framwork`      | UI automation framework using Playwright with POM design.                                       | JavaScript, Playwright                |
-| `playwright_API_Testing`             | Lightweight API testing framework using Playwright's built-in capabilities.                    | JavaScript, Playwright                |
-| `java_Selenium_Automation_PageFactory_model` | UI automation using the Page Factory model for reduced boilerplate code.                     | Java, Selenium, Maven                 |
+| `java_Selenium_Automation_Framwork_POM_Model` | A web UI automation framework using the Page Object Model (POM) for maintainable and scalable tests. | Java, Selenium, Maven, TestNG         |
+| `playwright_pom_model_framwork`      | A modern UI test automation framework demonstrating the power of Playwright with the POM design pattern. | JavaScript, Playwright                |
+| `playwright_API_Testing`             | A lightweight and powerful framework for end-to-end API testing using Playwright’s built-in capabilities. | JavaScript, Playwright                |
+| `java_Selenium_Automation_PageFactory_model` | A UI automation framework showcasing the Page Factory model to reduce boilerplate code in page objects. | Java, Selenium, Maven                 |
 
 ---
 
 ## 👨‍💻 Professional Experience
 
-**Software Quality Assurance Associate** @ **Telus**  
+### **Software Quality Assurance Associate** @ **Telus**  
 *Jan 2022 – Present*
 
-- Collaborated on telecom domain projects, validating multi-view subscriber, device, and usage data features.
-- Tested key subscriber functionalities (e.g., SIM swaps, plan modifications) via APIs.
-- Spearheaded automation initiatives to enhance coverage and reduce manual testing in Agile environments.
+- Collaborated on testing a comprehensive telecom domain project, validating complex multi-view features for subscriber, device, and usage data.
+- Tested critical subscriber management functionalities, including SIM swaps, plan modifications, and feature additions via APIs.
+- Contributed to automation initiatives to improve test coverage and reduce manual effort within an Agile environment.
 
-**Software Quality Assurance Trainee** @ **Telus**  
+### **Software Quality Assurance Trainee** @ **Telus**  
 *May 2021 – Dec 2021*
 
-- Tested HEDWIG platform for purchasing devices/SIMs for corporate clients.
-- Conducted responsive and cross-browser UI testing to ensure optimal UX.
-- Logged UI defects and worked closely with developers for prompt resolution.
+- Contributed to testing HEDWIG, a vital platform for purchasing devices and SIMs for corporate clients.
+- Conducted thorough UI testing to verify user experience, responsiveness, and visual correctness across devices and browsers.
+- Tracked and documented UI defects, working closely with the development team to facilitate prompt resolutions.
 
 ---
 
