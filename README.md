@@ -1,11 +1,14 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/M-Arshad96/M-Arshad96/main/Black%20&%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png" alt="Muhammad Arshad - Software Quality Analyst" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/M-Arshad96/M-Arshad96/main/<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/309e5bb2-ff64-4f44-a966-05d468877fdf" />
+" alt="Muhammad Arshad - Software Quality Analyst" style="width:100%;"/>
 
 <br/>
 
 <!-- Profile Photo & Intro -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Arshad96/M-Arshad96/main/1000223649.jpg" alt="Muhammad Arshad" width="160" style="border-radius: 50%;">
+  <img src="https://raw.githubusercontent.com/M-Arshad96/M-Arshad96/main/<img width="1058" height="1145" alt="profile 1" src="https://github.com/user-attachments/assets/e7ed630d-b55c-4ca3-97d5-5291fa97af44" />
+
+" alt="Muhammad Arshad" width="160" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi there, I'm Muhammad Arshad 👋</h1>
