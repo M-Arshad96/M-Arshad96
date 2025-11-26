@@ -42,7 +42,6 @@ I'm an experienced **Quality Assurance Analyst** with **4 years** of expertise i
 ● Conducted API validation for accurate data reporting and analytics.  
 ● Automated regression cases, reducing manual effort by 40%.  
 ● Authored 200+ test cases and tracked 500+ defects, reducing leakage by 35%.
-● Collaborated in Agile sprints ensuring on-time and quality releases.  
 
 ### **Software Quality Assurance Trainee** @ **Telus**  
 *Dec 2021 – Dec 2022*
