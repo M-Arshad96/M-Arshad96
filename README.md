@@ -35,18 +35,29 @@ I'm an experienced **Quality Assurance Analyst** with **4 years** of expertise i
 ## 👨‍💻 Professional Experience
 
 ### **Software Quality Assurance Associate** @ **Telus**  
-*Jan 2022 – Present*
+*Dec 2022 – Present*
 
-- Collaborated on testing a comprehensive telecom domain project, validating complex multi-view features for subscriber, device, and usage data.
-- Tested critical subscriber management functionalities, including SIM swaps, plan modifications, and feature additions via APIs.
-- Contributed to automation initiatives to improve test coverage and reduce manual effort within an Agile environment.
+● Performed manual and automated testing for enterprise telecom applications.                                          
+● Validated subscriber management APIs (SIM swap, plan update, name change).                                     
+● Conducted API validation for accurate data reporting and analytics.  
+● Automated regression cases, reducing manual effort by 40%.  
+● Authored 200+ test cases and tracked 500+ defects, reducing leakage by 35%. 
+● Collaborated in Agile sprints ensuring on-time and quality releases.  
 
 ### **Software Quality Assurance Trainee** @ **Telus**  
-*May 2021 – Dec 2021*
+*Dec 2021 – Dec 2022*
 
-- Contributed to testing HEDWIG, a vital platform for purchasing devices and SIMs for corporate clients.
-- Conducted thorough UI testing to verify user experience, responsiveness, and visual correctness across devices and browsers.
-- Tracked and documented UI defects, working closely with the development team to facilitate prompt resolutions.
+● Tested device and SIM purchase workflows for corporate clients.  
+● Designed 180+ UI test cases, logging 320+ UI/UX issues.  
+● Conducted cross-browser testing for responsiveness and usability.  
+● Participated in sprint planning, reviews, and defect triage.  
+
+### **Software Quality Assurance Intern** @ **Telus**  
+*Aug 2021 – Dec 2021*
+
+● Executed regression and smoke tests across multiple releases.  
+● Reported 15+ high-priority defects before UAT.  
+● Assisted senior testers with 50+ test cases per sprint using JIRA. 
 
 ---
 
